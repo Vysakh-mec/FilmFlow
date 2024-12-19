@@ -78,5 +78,8 @@ const styles = StyleSheet.create({
   }, listContainer: {
     paddingHorizontal: 20
   },
-  columnWrapper: { justifyContent: "space-between", marginBottom: 20 }
+  columnWrapper: { 
+    justifyContent: "space-between",
+     marginBottom: 20 
+  }
 })

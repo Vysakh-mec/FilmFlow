@@ -38,9 +38,7 @@ const styles = StyleSheet.create({
         fontWeight:"400"
     },
     container:{
-        // backgroundColor:"red",
         maxWidth:110,
-        // marginVertical:10,
         overflow:"hidden"
     }
 })

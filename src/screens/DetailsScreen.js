@@ -1,6 +1,5 @@
 import { ActivityIndicator, Alert, Image, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
 import React, { useEffect, useState } from 'react'
-import { SafeAreaView } from 'react-native-safe-area-context'
 import { useRoute } from '@react-navigation/native'
 import StarIcon from "../../assets/icons/StarIcon.svg"
 import MovieListItem from '../components/MovieListItem'

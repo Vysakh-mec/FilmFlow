@@ -1,4 +1,4 @@
-import { Dimensions, Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
+import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
 import React, { useState } from 'react'
 
 const MovieListItem = ({data}) => {
@@ -35,7 +35,6 @@ const styles = StyleSheet.create({
         flexDirection:"row",
         alignItems:"center",
         columnGap:16,
-        // overflow
     },
     container:{
         marginTop:16
