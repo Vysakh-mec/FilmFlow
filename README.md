@@ -1,7 +1,7 @@
 # FilmFlow 🎬
 FilmFlow is a React Native-based movie browsing application inspired by Netflix. It allows users to browse movies, view details, and search for specific titles using data provided by the TVMaze API.
 ## Features
--  Splash Screen with Custom Animation
+-  Custom SplashScreen
 -  Home Screen: Display a list of movies with images, titles, and summaries
 -  Search Screen: Search for any movie dynamically
 -  Details Screen: View detailed information, including ratings, language, genres, and episodes
